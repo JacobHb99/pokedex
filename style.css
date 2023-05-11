@@ -1,0 +1,86 @@
+.pokemonCardFullScreen {
+
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+
+
+.pokemonText {
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    margin-top: -24px;
+    background-color: white;
+}
+
+
+
+#skills {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+}
+
+
+.skillContainer {
+    width: 100%;
+}
+
+
+.singleSkillContainer {
+    width: 80%;
+}
+
+
+h1 {
+    font-size: 150px !important;
+    text-align: center;
+    color: rgba(126, 124, 124, 0.6) !important;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+
+
+
+.pokemonImg {
+    height: 320px;
+    width: 320px;
+    object-fit: contain;
+}
+
+
+
+
+
+
+h2 {
+    width: 320px;
+}
+
+
+
+
+table tr {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.imgContainer {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    z-index: 99;
+}
+
+#mainInfos {
+    z-index: 1;
+}
