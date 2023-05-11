@@ -1,0 +1,239 @@
+.electric {
+    background-color: yellow;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.grass {
+    background-color: green;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.bug {
+    background-color: brown;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.fire {
+    background-color: red;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.rock {
+    background-color: grey;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.water {
+    background-color: blue;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.psychic {
+    background-color: darkmagenta;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.fairy {
+    background-color: pink;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+
+.flying {
+    background-color: lightblue;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.fighting {
+    background-color: maroon;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.ghost {
+    background-color:  rgb(161, 151, 151);
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.ground {
+    background-color: chocolate;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.normal {
+    background-color: darkcyan;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.poison {
+    background-color: hotpink;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.ice {
+    background-color: black;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.dragon {
+    background-color: rgb(250, 6, 128);
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.electric-border {
+    border: 2px solid yellow;
+}
+
+
+.grass-border {
+    border: 2px solid green;
+}
+
+
+.fire-border {
+    border: 2px solid red;
+}
+
+
+.rock-border {
+    border: 2px solid gray;
+}
+
+
+.water-border {
+    border: 2px solid blue;
+}
+
+
+.bug-border {
+    border: 2px solid brown;
+}
+
+
+.psychic-border {
+    border: 2px solid darkmagenta;
+}
+
+
+.fyling-border {
+    border: 2px solid lightblue;
+}
+
+
+.fighting-border {
+    border: 2px solid maroon;
+}
+
+
+.ghost-border {
+    border: 2px solid rgb(161, 151, 151);
+}
+
+
+.ground-border {
+    border: 2px solid chocolate;
+}
+
+
+.normal-border {
+    border: 2px solid darkcyan;
+}
+
+
+.poison-border {
+    border: 2px solid hotpink;
+}
+
+
+.ice-border {
+    border: 2px solid black;
+}
+
+
+.dragon-border {
+    border: 2px solid rgb(250, 6, 128);
+}
+
+
+.fairy-border {
+    border: 2px solid pink
+}
